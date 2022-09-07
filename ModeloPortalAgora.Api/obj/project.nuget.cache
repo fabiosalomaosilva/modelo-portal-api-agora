@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "toA+M2yCtx3SLIZWcz90z2kFRtLJmt/Q7pKuUTue0vwIf7Nsgkempsht8jECPoCAM3KMqDvFK2VweJZBPIz/zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabio\\source\\repos\\fabiosalomaosilva\\modelo-portal-api-agora\\ModeloPortalAgora.Api\\ModeloPortalAgora.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
